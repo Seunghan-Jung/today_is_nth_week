@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/today_is_nth_week/static/css/main.5f361e03.chunk.css",
+    "main.js": "/today_is_nth_week/static/js/main.27ca8956.chunk.js",
+    "main.js.map": "/today_is_nth_week/static/js/main.27ca8956.chunk.js.map",
+    "runtime-main.js": "/today_is_nth_week/static/js/runtime-main.d7507e3b.js",
+    "runtime-main.js.map": "/today_is_nth_week/static/js/runtime-main.d7507e3b.js.map",
+    "static/js/2.7ada2883.chunk.js": "/today_is_nth_week/static/js/2.7ada2883.chunk.js",
+    "static/js/2.7ada2883.chunk.js.map": "/today_is_nth_week/static/js/2.7ada2883.chunk.js.map",
+    "index.html": "/today_is_nth_week/index.html",
+    "precache-manifest.33527711c3718aed82a5a2d32fe7868c.js": "/today_is_nth_week/precache-manifest.33527711c3718aed82a5a2d32fe7868c.js",
+    "service-worker.js": "/today_is_nth_week/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/today_is_nth_week/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.7ada2883.chunk.js.LICENSE.txt": "/today_is_nth_week/static/js/2.7ada2883.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7507e3b.js",
+    "static/js/2.7ada2883.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.27ca8956.chunk.js"
+  ]
+}
